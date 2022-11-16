@@ -1,0 +1,6 @@
+D:\Documents\Availity\SQL\Customer\bin\Debug\SQL.dacpac
+D:\Documents\Availity\SQL\Customer\bin\Debug\Customer.dll
+D:\Documents\Availity\SQL\Customer\bin\Debug\Customer.pdb
+D:\Documents\Availity\SQL\Customer\obj\Debug\SQL.sqlproj.AssemblyReference.cache
+D:\Documents\Availity\SQL\Customer\obj\Debug\Customer.dll
+D:\Documents\Availity\SQL\Customer\obj\Debug\Customer.pdb

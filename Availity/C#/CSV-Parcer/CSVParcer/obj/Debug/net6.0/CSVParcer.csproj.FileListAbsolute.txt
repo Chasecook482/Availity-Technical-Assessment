@@ -1,0 +1,12 @@
+D:\Documents\Availity\CSV-Parcer\CSVParcer\bin\Debug\net6.0\CSVParcer.deps.json
+D:\Documents\Availity\CSV-Parcer\CSVParcer\bin\Debug\net6.0\CSVParcer.dll
+D:\Documents\Availity\CSV-Parcer\CSVParcer\bin\Debug\net6.0\CSVParcer.pdb
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\CSVParcer.csproj.AssemblyReference.cache
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\CSVParcer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\CSVParcer.AssemblyInfoInputs.cache
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\CSVParcer.AssemblyInfo.cs
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\CSVParcer.csproj.CoreCompileInputs.cache
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\CSVParcer.dll
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\refint\CSVParcer.dll
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\CSVParcer.pdb
+D:\Documents\Availity\CSV-Parcer\CSVParcer\obj\Debug\net6.0\ref\CSVParcer.dll

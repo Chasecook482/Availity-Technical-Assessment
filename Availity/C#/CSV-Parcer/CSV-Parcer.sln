@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVParcer", "CSVParcer\CSVParcer.csproj", "{DD3F139A-76F7-4E8B-8749-513E774D6EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userInputCLI", "userInputCLI\userInputCLI.csproj", "{80396835-D2D9-449F-9F59-9641C2FFC358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3F139A-76F7-4E8B-8749-513E774D6EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3F139A-76F7-4E8B-8749-513E774D6EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3F139A-76F7-4E8B-8749-513E774D6EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3F139A-76F7-4E8B-8749-513E774D6EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80396835-D2D9-449F-9F59-9641C2FFC358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80396835-D2D9-449F-9F59-9641C2FFC358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80396835-D2D9-449F-9F59-9641C2FFC358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80396835-D2D9-449F-9F59-9641C2FFC358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
